@@ -1,0 +1,5 @@
+x=a*b
+c=a
+y=c*b
+a=y
+p=a*b

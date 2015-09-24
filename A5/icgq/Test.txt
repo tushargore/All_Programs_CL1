@@ -1,0 +1,15 @@
+sum=sum+40;
+x=p<q;
+y=p<=q;
+l=m&&q;
+f=p<q&&m>q;
+x=p|q<p;
+l=d&p<=l;
+l=p<<2;
+q=l>>2;
+r=p<<2>>1;
+r=sum,b,q,f;
+p=x-=10;
+m=d^=z;
+n=s%=2;
+$

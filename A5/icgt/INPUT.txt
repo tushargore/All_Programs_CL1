@@ -1,0 +1,8 @@
+x=40.00;
+t=r*r;
+sub=x1+y20;
+d=g*g/a+s/b*c;
+l=m*n^q+o-q;
+g=a+b*c;
+x=y^2;
+$	
